@@ -1,10 +1,8 @@
 [dev]
 servera
 serverb
-
+serverc
 
 [prod]
 serverd
 
-[dev]
-serverc
