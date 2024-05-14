@@ -1,6 +1,7 @@
 [dev]
 servera
 serverb
+serverc
 
 
 [prod]
