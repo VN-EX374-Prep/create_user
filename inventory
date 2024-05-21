@@ -1,7 +1,8 @@
 [dev]
 servera
 serverb
-serverc
+
+
 [prod]
 serverd
 
