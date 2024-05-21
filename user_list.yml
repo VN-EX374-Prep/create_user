@@ -4,3 +4,6 @@ users:
    job: developer
  - name: user3
    job: developer
+
+ - name: john
+   job: developer
